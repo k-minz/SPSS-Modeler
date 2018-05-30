@@ -1,5 +1,8 @@
 # SPSS-Modeler
-In this repository, there are projects using only SPSS_Modeler. I've done two projects with H department store's transaction data. One for prediction model and the other for association rule model.
+In this repository, there are projects using only SPSS_Modeler.
+
+# About projects
+I did two projects with H department store's transaction data in 2015 to practice SPSS-Modeler. One for prediction model and the other for association rule model. Both projects still needs more work. 
 
 # Requirement
 This extension requires the following
