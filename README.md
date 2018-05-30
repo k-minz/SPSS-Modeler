@@ -10,10 +10,12 @@ It's not allowed to upload Dataset because of copyright by H department store.
 Hope you refer to uploaded pdf file that I created.
 
 # Used Models
-## Prediction Model (refer to Prediction model.md)
+### Prediction Model 
+(refer to Prediction model.md)
 - Logistics
 - C5.0(Decision Model)
 - Neural Networks 
 
-## Association Rule Model (refer to ARM.md)
+### Association Rule Model 
+(refer to ARM.md)
 - Apriori node
