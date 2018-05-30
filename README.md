@@ -8,7 +8,7 @@ This extension requires the following
 # Requested datasets
 - H department store's transaction Dataset
 It's not allowed to upload Dataset because of copyright by H department store.
-Hope you refer to uploaded pdf file that I created.
+<br>Hope you refer to uploaded pdf file that I created.
 
 # Used Models
 ### Prediction Model 
