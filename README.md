@@ -11,6 +11,8 @@ This extension requires the following
 # Requested datasets
 ### H department store's transaction Dataset
 It's not allowed to upload Dataset because of copyright by H department store. So, hope you refer to **uploaded pdf files** that I created in presentation folder.
+- Association Rule Model.pdf
+- Prediction Model.pdf
 
 # Used Models
 ### Prediction Model 
