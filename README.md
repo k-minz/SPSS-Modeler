@@ -10,9 +10,7 @@ This extension requires the following
 
 # Requested datasets
 ### H department store's transaction Dataset
-<br>It's not allowed to upload Dataset because of copyright by H department store.
-<br>Hope you refer to uploaded pdf file that I created.
-
+It's not allowed to upload Dataset because of copyright by H department store. So, hope you refer to **uploaded pdf files** that I created in presentation folder.
 
 # Used Models
 ### Prediction Model 
