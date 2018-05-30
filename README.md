@@ -6,9 +6,11 @@ This extension requires the following
 - IBM SPSS Modeler v18.1.1 or later
 
 # Requested datasets
+<br>
 - H department store's transaction Dataset
 It's not allowed to upload Dataset because of copyright by H department store.
-<br>Hope you refer to uploaded pdf file that I created.
+Hope you refer to uploaded pdf file that I created.
+</br>
 
 # Used Models
 ### Prediction Model 
